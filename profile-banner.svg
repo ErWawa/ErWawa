@@ -1,0 +1,67 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ErWawa futuristic AI systems banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#02060C"/>
+      <stop offset="0.52" stop-color="#061522"/>
+      <stop offset="1" stop-color="#020309"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 180) rotate(90) scale(145)">
+      <stop stop-color="#B9F5FF" stop-opacity="0.9"/>
+      <stop offset="0.18" stop-color="#37D9FF" stop-opacity="0.45"/>
+      <stop offset="0.62" stop-color="#0D75C6" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#02060C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#3CE6FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#3CE6FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#B967FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#6CD8FF" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="17" stroke="#3CE6FF" stroke-opacity="0.28"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <ellipse cx="600" cy="180" rx="280" ry="142" fill="url(#core)"/>
+
+  <g opacity="0.32" stroke="#3CE6FF" stroke-width="1">
+    <path d="M0 80H1200M0 280H1200"/>
+    <path d="M170 0V360M1030 0V360"/>
+    <path d="M0 180H1200" stroke-dasharray="4 12"/>
+  </g>
+
+  <g transform="translate(600 180)" fill="none" stroke-linecap="round">
+    <ellipse rx="190" ry="62" stroke="#3CE6FF" stroke-opacity="0.45" stroke-width="1.5" transform="rotate(-16)">
+      <animateTransform attributeName="transform" type="rotate" from="-16 0 0" to="344 0 0" dur="18s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="190" ry="62" stroke="#B967FF" stroke-opacity="0.35" stroke-width="1" transform="rotate(64)">
+      <animateTransform attributeName="transform" type="rotate" from="64 0 0" to="-296 0 0" dur="22s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="135" ry="42" stroke="#B9F5FF" stroke-opacity="0.35" stroke-width="1" transform="rotate(90)"/>
+    <circle r="58" stroke="#3CE6FF" stroke-opacity="0.7" stroke-width="1.5" stroke-dasharray="2 8">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle cx="600" cy="180" r="7" fill="#D7FAFF"/>
+    <circle cx="600" cy="180" r="20" stroke="#3CE6FF" stroke-opacity="0.45"/>
+  </g>
+
+  <g fill="#A9EEFF">
+    <circle cx="280" cy="116" r="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="918" cy="248" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="840" cy="82" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="278" r="1.5"><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <path d="M110 316H1090" stroke="url(#line)" stroke-width="2"/>
+  <text x="60" y="70" fill="#B9F5FF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="4">ERWAWA // SYSTEMS BUILDER</text>
+  <text x="60" y="305" fill="#7AA2B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">LOCAL-FIRST AI · IMMERSIVE INTERFACES · AUTOMATION</text>
+</svg>

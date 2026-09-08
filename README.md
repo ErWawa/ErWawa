@@ -9,7 +9,6 @@
 
   <p>
     <a href="https://github.com/ErWawa?tab=repositories"><img src="https://img.shields.io/badge/Projects-0B1520?style=for-the-badge&logo=github&logoColor=3CE6FF&labelColor=02060C" alt="Projects" /></a>
-    <a href="https://github.com/ErWawa/gideon"><img src="https://img.shields.io/badge/Project-G.I.D.E.O.N.-0B1520?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=02060C" alt="GIDEON" /></a>
     <a href="https://github.com/ErWawa?tab=followers"><img src="https://img.shields.io/badge/Connect-0B1520?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=02060C" alt="Connect on GitHub" /></a>
   </p>
 </div>
@@ -25,27 +24,12 @@ focus = ["AI systems", "automation", "voice", "3D interfaces", "knowledge tools"
 principles = ["make it useful", "keep it understandable", "ship the real thing"]
 ```
 
-## A project in my orbit — G.I.D.E.O.N.
+## What I build
 
-<div align="center">
-
-### Global Intelligence, Defense, Engineering & Operations Network
-
-</div>
-
-G.I.D.E.O.N. is a private, local-first AI command center: a neural HUD around a FastAPI core, persistent memory, a searchable Markdown vault, real-time speech, computer vision, and a coordinated network of ten specialized agents.
-
-| Layer | What it brings together |
-| --- | --- |
-| **Interface** | React, TypeScript, Three.js, Zustand, SCSS, audio-reactive HUD components |
-| **Intelligence** | DeepSeek, Ollama, OpenAI-compatible providers, streaming tool use |
-| **Memory** | Semantic retrieval, ChromaDB, Markdown knowledge vault, episodic context |
-| **Agents** | NEXUS, NOVA, ORION, VANGUARD, PROMETHEUS, AEGIS, HELIOS, ATLAS, SENTINEL, ARGUS |
-| **Perception** | faster-whisper, Silero VAD, YOLO vision, scene events and enrichment |
-
-<div align="center">
-  <a href="https://github.com/ErWawa/gideon"><img src="https://img.shields.io/badge/VIEW_G.I.D.E.O.N.-02060C?style=for-the-badge&logo=github&logoColor=3CE6FF" alt="View GIDEON repository" /></a>
-</div>
+- AI systems with practical interfaces and clear feedback.
+- Voice, vision, and automation tools that connect naturally to everyday workflows.
+- Knowledge and memory systems that keep context useful and inspectable.
+- Dark, information-rich interfaces where every visual element communicates state.
 
 ## The stack I reach for
 

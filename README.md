@@ -5,27 +5,27 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=3CE6FF&center=true&vCenter=true&width=760&lines=Building+local-first+AI+systems;Designing+interfaces+that+feel+alive;Turning+complex+ideas+into+working+tools" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=3CE6FF&center=true&vCenter=true&width=760&lines=Local-first+AI+systems;Interfaces+that+feel+alive;Complex+ideas%2C+working+tools" alt="Animated introduction" />
 
   <p>
     <a href="https://github.com/ErWawa?tab=repositories"><img src="https://img.shields.io/badge/Projects-0B1520?style=for-the-badge&logo=github&logoColor=3CE6FF&labelColor=02060C" alt="Projects" /></a>
-    <a href="https://github.com/ErWawa/gideon"><img src="https://img.shields.io/badge/Flagship-G.I.D.E.O.N.-0B1520?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=02060C" alt="GIDEON" /></a>
+    <a href="https://github.com/ErWawa/gideon"><img src="https://img.shields.io/badge/Project-G.I.D.E.O.N.-0B1520?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=02060C" alt="GIDEON" /></a>
     <a href="https://github.com/ErWawa?tab=followers"><img src="https://img.shields.io/badge/Connect-0B1520?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=02060C" alt="Connect on GitHub" /></a>
   </p>
 </div>
 
-## `> whoami`
+## &gt; whoami
 
 I’m **ErWawa**, a builder focused on the space where software, artificial intelligence, and immersive interfaces meet.
 
-I like taking ambitious ideas out of the notebook and turning them into systems that can actually run: local-first AI, voice interfaces, automation, knowledge tools, and visual experiences with a strong sense of identity.
+I enjoy turning ambitious ideas into systems that can actually run: local-first AI, voice interfaces, automation, knowledge tools, and visual experiences with a strong sense of identity.
 
 ```text
 focus = ["AI systems", "automation", "voice", "3D interfaces", "knowledge tools"]
 principles = ["make it useful", "keep it understandable", "ship the real thing"]
 ```
 
-## Current flagship — G.I.D.E.O.N.
+## A project in my orbit — G.I.D.E.O.N.
 
 <div align="center">
 
@@ -35,7 +35,7 @@ principles = ["make it useful", "keep it understandable", "ship the real thing"]
 
 G.I.D.E.O.N. is a private, local-first AI command center: a neural HUD around a FastAPI core, persistent memory, a searchable Markdown vault, real-time speech, computer vision, and a coordinated network of ten specialized agents.
 
-| Layer | What I’m building with it |
+| Layer | What it brings together |
 | --- | --- |
 | **Interface** | React, TypeScript, Three.js, Zustand, SCSS, audio-reactive HUD components |
 | **Intelligence** | DeepSeek, Ollama, OpenAI-compatible providers, streaming tool use |
@@ -44,7 +44,7 @@ G.I.D.E.O.N. is a private, local-first AI command center: a neural HUD around a 
 | **Perception** | faster-whisper, Silero VAD, YOLO vision, scene events and enrichment |
 
 <div align="center">
-  <a href="https://github.com/ErWawa/gideon"><img src="https://img.shields.io/badge/OPEN_G.I.D.E.O.N.-02060C?style=for-the-badge&logo=github&logoColor=3CE6FF" alt="Open GIDEON repository" /></a>
+  <a href="https://github.com/ErWawa/gideon"><img src="https://img.shields.io/badge/VIEW_G.I.D.E.O.N.-02060C?style=for-the-badge&logo=github&logoColor=3CE6FF" alt="View GIDEON repository" /></a>
 </div>
 
 ## The stack I reach for
@@ -64,7 +64,7 @@ G.I.D.E.O.N. is a private, local-first AI command center: a neural HUD around a 
 
 ## How I work
 
-- **Systems over snippets.** A feature is only finished when it connects cleanly to the rest of the system.
+- **Systems over snippets.** A feature is finished when it connects cleanly to the rest of the system.
 - **Visuals with a job.** The interface should communicate state, not just look futuristic.
 - **Local-first when possible.** Privacy, inspectability, and control matter.
 - **Small feedback loops.** Build, test, observe, refine.
